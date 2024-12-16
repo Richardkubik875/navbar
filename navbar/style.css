@@ -1,0 +1,17 @@
+#Nike{
+    background-color: darkblue;
+    text-align: center;
+}
+#Adidas{
+    background-color: gold;
+    text-align: center;
+}
+#Puma{
+    text-align: center;
+    background-color: lightpink;
+}
+div{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
